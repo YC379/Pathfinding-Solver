@@ -1,0 +1,13 @@
+# Fichiers compilés
+*.class
+/out/
+/target/
+/bin/
+
+# Fichiers IntelliJ IDEA
+.idea/
+*.iml
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
